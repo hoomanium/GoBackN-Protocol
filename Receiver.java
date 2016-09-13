@@ -2,8 +2,6 @@
  *
  * File:   Receiver.java
  * Author: Hooman Hejazi
- * Course: CS 456 - Computer Networks
- * Assignment: A2 - Go-Back-N Protocol
  * Created on November 10, 2015, 9:42 AM
  *
  */
