@@ -2,13 +2,12 @@
 Reliable Data Transfer: The Go Back N Protocol 
 
  
- /*
+
  * File:   README
  * Author: Hooman Hejazi
  * Go-Back-N Protocol
  * Created on November 10, 2015, 9:42 AM
- *
- */
+
 
 
   == README ==
