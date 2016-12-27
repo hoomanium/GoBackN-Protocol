@@ -2,8 +2,6 @@
 
 # File Name: makefile
 # Author: Hooman Hejazi
-# Course: CS 456 - Computer Networks
-# Assignment: A2 - Go-Back-N Protocol
 # Created on November 10, 2015, 9:42 AM
 
 # Compiler javac 1.8.0_31 
