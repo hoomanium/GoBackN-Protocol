@@ -2,7 +2,7 @@
 Reliable Data Transfer: The Go Back N Protocol 
 
  
- *
+ /*
  * File:   README
  * Author: Hooman Hejazi
  * Go-Back-N Protocol
